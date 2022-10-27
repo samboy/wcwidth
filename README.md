@@ -1,3 +1,4 @@
+# Original README
 
 This is an implementation of wcwidth() and wcswidth() (defined in
 IEEE Std 1002.1-2001) for Unicode.
@@ -51,3 +52,11 @@ routines has avoided to do so far.
 http://www.unicode.org/unicode/reports/tr11/
 
 Markus Kuhn -- 2007-05-26 (Unicode 5.0)
+
+# See also
+
+Updated tables supporting (as I type this) up to Unicode 13 
+(March 2020) are here:
+
+* https://github.com/jquast/wcwidth
+
